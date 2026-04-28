@@ -1,0 +1,285 @@
+{
+  "nav": {
+    "about": "Sobre nosotros",
+    "capitalization": "Capitalización",
+    "contact": "Contacto",
+    "skipToContent": "Saltar al contenido"
+  },
+  "footer": {
+    "tagline": "Redefiniendo las reglas de la minería de capital.",
+    "headquarters": "Sede en Dubái",
+    "address": "Business Center Dubai South · Dubái · EAU · Apartado de correos 390667",
+    "license": "Licencia DED: 1065531",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "notice": "Aviso legal",
+    "privacy": "Privacidad",
+    "cookies": "Cookies",
+    "disclaimer": "Descargo de responsabilidad",
+    "rights": "© {year} Allianz Gold. Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "name": "Allianz Gold",
+      "headline": "Capital institucional sobre recursos certificados.",
+      "lede": "Transformamos inventarios bajo las normas NI 43-101 / JORC en liquidez institucional mediante estrategias de adquisición o monetización estructurada.",
+      "cta": "Explorar capitalización"
+    },
+    "value": {
+      "eyebrow": "Diferenciador",
+      "title": "Solvencia para activos que el sistema convencional no financia.",
+      "body": "Estructuramos y ejecutamos soluciones de capital para empresas mineras a escala global, proporcionando solvencia a activos que el sistema financiero convencional no financia y que los mercados públicos tienden a diluir."
+    },
+    "pillars": {
+      "eyebrow": "Pilares operativos",
+      "title": "Infraestructura de servicios",
+      "financial": {
+        "title": "Infraestructura financiera",
+        "items": [
+          { "title": "Estructuración de activos", "body": "Conversión de recursos minerales in situ en garantías institucionales elegibles." },
+          { "title": "Vehículos SPV (Luxemburgo)", "body": "Optimización del apalancamiento (LTV) y protección legal del activo." },
+          { "title": "Red bancaria de Nivel 1", "body": "Emisión, custodia y garantía conforme a los estándares internacionales." },
+          { "title": "Ejecución en trading desk", "body": "Integración en trading desks de Nivel 1 para arbitraje de deuda en mercados secundarios." },
+          { "title": "Conectividad de capital", "body": "Acceso a redes institucionales y soberanas de circuito restringido." }
+        ]
+      },
+      "legal": {
+        "title": "Infraestructura legal",
+        "items": [
+          { "title": "Marco legal", "body": "Jurisdicción bajo legislación inglesa o suiza." },
+          { "title": "Resolución de disputas", "body": "Arbitraje internacional ICC / LCIA." },
+          { "title": "Estándares bancarios", "body": "Operativa bajo regulaciones de Basilea III/IV." },
+          { "title": "Cumplimiento", "body": "Estrictos protocolos AML/KYC e informes FATCA/CRS." }
+        ]
+      }
+    },
+    "presence": {
+      "eyebrow": "Presencia global",
+      "title": "Huella operativa",
+      "body": "Presencia operativa en Londres, Suiza y Luxemburgo, con base estratégica en Dubái.",
+      "cities": ["Londres", "Suiza", "Luxemburgo", "Dubái"]
+    },
+    "tagline": "Redefiniendo las reglas de la minería de capital."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Sobre nosotros",
+      "title": "Especialistas en ingeniería financiera minera."
+    },
+    "intro": {
+      "body": "Allianz Gold actúa como enlace estratégico entre los recursos geológicos validados y los mercados de capitales institucionales. Nuestra especialización integra la validación técnica de minerales con arquitecturas financieras avanzadas, transformando inventarios certificados en activos financieros de alta liquidez."
+    },
+    "positioning": {
+      "title": "Posicionamiento operativo",
+      "items": [
+        "Independencia de los mercados públicos y de los procesos de dilución estructural.",
+        "Estructuras de capitalización institucional, sin intermediación tradicional.",
+        "Enfoque en maximizar la liquidez, el control de activos y la eficiencia financiera."
+      ]
+    },
+    "leadership": {
+      "title": "Liderazgo multidisciplinario",
+      "body": "Nuestra estructura integra especialistas en geología de recursos, ingeniería financiera y derecho de mercados de capitales.",
+      "areas": [
+        { "title": "Validación técnica", "body": "Supervisión por profesionales calificados (QP/CP) bajo criterios de riesgo bancario." },
+        { "title": "Ingeniería financiera", "body": "Diseño de instrumentos y arquitecturas de capital institucional." },
+        { "title": "Arquitectura legal", "body": "Estructuración legal, despliegue de vehículos de propósito especial (SPV) y cumplimiento normativo." }
+      ]
+    },
+    "governance": {
+      "title": "Gobernanza",
+      "members": [
+        { "name": "Rubén Alanís", "role": "Director General (CEO)" },
+        { "name": "Manuel Justiniano", "role": "Director de Operaciones (COO)" }
+      ]
+    }
+  },
+  "capitalization": {
+    "hero": {
+      "eyebrow": "Capitalización",
+      "title": "Capitalización institucional.",
+      "lede": "Estructuramos dos vías de ejecución en función del objetivo del activo."
+    },
+    "acquisition": {
+      "number": "01",
+      "title": "Adquisición de activos",
+      "subtitle": "Desinversión mediante la transferencia total de la propiedad.",
+      "phases": [
+        { "label": "Fase I", "title": "Auditoría", "body": "Debida diligencia técnica, legal y financiera." },
+        { "label": "Fase II", "title": "Estructuración", "body": "Definición de términos y marco legal." },
+        { "label": "Fase III", "title": "Ejecución", "body": "Colocación en redes de inversión institucionales." },
+        { "label": "Fase IV", "title": "Liquidación", "body": "Pago conforme a los protocolos financieros ISO 20022." }
+      ]
+    },
+    "monetization": {
+      "number": "02",
+      "title": "Monetización de recursos",
+      "subtitle": "Conversión a efectivo sin pérdida de la propiedad.",
+      "cycle": "Ciclo operativo estimado: 9 meses.",
+      "phases": [
+        { "label": "Fase I", "title": "Validación", "body": "Calificación según NI 43-101 / JORC como garantía elegible." },
+        { "label": "Fase II", "title": "Emisión", "body": "Estructuración de SBLC / LOC con bancos de primer nivel." },
+        { "label": "Fase III", "title": "Ejecución", "body": "Integración en los mercados secundarios de deuda." },
+        { "label": "Fase IV", "title": "Devolución", "body": "Distribución de devoluciones y liberación de garantías." }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Preguntas y respuestas",
+      "items": [
+        {
+          "q": "¿Qué es monetizar un activo aurífero certificado?",
+          "a": "La monetización es el proceso por el cual un recurso mineral certificado bajo NI 43-101 / JORC se incorpora como garantía elegible dentro de una estructura bancaria institucional, sin transferencia de la propiedad. El activo respalda la emisión de un instrumento financiero (SBLC / LOC) que, ejecutado en el mercado secundario de deuda a través de una entidad de Nivel 1, genera liquidez operativa para su propietario durante el ciclo. Al concluir el programa, la garantía se libera íntegramente y el activo regresa al titular sin cargas."
+        },
+        {
+          "q": "¿Por qué el certificado debe tener menos de 12 meses de fecha efectiva para aplicar a una monetización?",
+          "a": "Los bancos de Nivel 1 y los trading desks operan bajo criterios estrictos de riesgo y diligencia razonable. Un informe técnico cuya fecha efectiva supera los 12 meses pierde validez como garantía elegible porque no refleja con la fiabilidad exigida el estado actual del recurso, los parámetros de mercado ni los factores de recuperación aplicados. El umbral de 12 meses no es una preferencia comercial: es un requisito de elegibilidad bancaria aplicado de forma uniforme en los programas de colateralización institucional."
+        },
+        {
+          "q": "Si el NI 43-101 está desactualizado, ¿puede la empresa propietaria del activo recibir una propuesta para estudiar la viabilidad de actualizarlo y aplicar a la monetización?",
+          "a": "Sí. Cuando el certificado está caducado pero el recurso muestra indicadores razonables de continuidad, Allianz Gold puede articular una propuesta técnica orientada a evaluar la viabilidad de una actualización, identificar QP / CP, y estimar plazos y alcances de verificación. Esta fase preliminar no constituye un compromiso financiero: tiene por objeto determinar si la actualización es viable y económicamente justificable a la luz del acceso a una monetización posterior."
+        },
+        {
+          "q": "¿Por qué la opción de monetización es más rentable para el propietario que la venta del activo?",
+          "a": "En una venta el propietario cede la titularidad del recurso y recibe un pago único. En la monetización el propietario conserva la propiedad, accede a liquidez recurrente durante el ciclo del programa y, al finalizarlo, regresa a su posición no gravada. No hay dilución accionarial, no hay pérdida de upside sobre el recurso ni exposición a descuentos de mercado sobre activos geológicos. El resultado es un valor presente superior con menor coste de oportunidad."
+        },
+        {
+          "q": "¿Puede participar en un programa de monetización una empresa listada en una bolsa de valores?",
+          "a": "Sí. La estructura es compatible con sociedades cotizadas siempre que la operación se reporte conforme a las obligaciones de divulgación de su regulador de mercado. Dado que la monetización no implica transferencia de propiedad ni requiere emisión de nuevas acciones, el impacto sobre la estructura de capital es nulo y no existe dilución accionarial. El marco de reporting se acuerda previamente con los asesores legales de la compañía."
+        },
+        {
+          "q": "¿Puede la empresa minera explotar activamente la mina durante un programa de monetización?",
+          "a": "Sí. El recurso colateralizado se refiere a un inventario definido bajo el informe técnico; la actividad ordinaria de explotación y operación continúa sin interrupción. La empresa conserva el control operativo y de gestión de la propiedad. La única obligación es mantener las condiciones del activo que sustentaron su elegibilidad institucional durante la vigencia del programa."
+        },
+        {
+          "q": "¿Puede la empresa minera hacer sondajes y actualizar el certificado durante el programa de monetización?",
+          "a": "Sí. Las labores de exploración, sondajes y actualización de reservas son compatibles con el programa. De hecho, una actualización durante el ciclo puede reforzar la posición institucional de la compañía de cara a futuros programas. Las modificaciones materiales del recurso que afecten al alcance de la elegibilidad se reportan a la entidad estructuradora, pero en ningún caso limitan la evolución técnica del activo."
+        },
+        {
+          "q": "¿Para qué sirve un mandato/permiso de representación temporal de Allianz Gold con la empresa minera?",
+          "a": "El mandato es un instrumento limitado y revocable que autoriza a Allianz Gold a presentar el activo ante su red institucional, solicitar hojas de términos indicativas y coordinar verificaciones técnicas y legales en nombre de la compañía. No transfiere derechos sobre el activo, no constituye un compromiso financiero y tiene un alcance temporal definido. Su finalidad es habilitar un proceso de evaluación ordenado preservando el control absoluto del propietario."
+        },
+        {
+          "q": "Nuestro modelo de capitalización con programa de monetización no requiere inversión ni gastos previos por parte de la empresa minera. Allianz Gold trabaja 100% a éxito. ¿Cómo es posible?",
+          "a": "El modelo de estructuración de Allianz Gold se sostiene sobre un fee institucional cobrado en el momento de la ejecución contra el programa financiero, no contra la tesorería de la compañía. La empresa minera no asume honorarios preliminares, costes de debida diligencia ni gastos de auditoría. El alineamiento económico es total: no hay ingreso para Allianz Gold sin ejecución efectiva del programa. Este régimen sólo es viable para activos que cumplen los criterios de elegibilidad desde el origen."
+        },
+        {
+          "q": "¿Con qué entidad se firma el contrato de monetización?",
+          "a": "El contrato de monetización se firma directamente entre la empresa propietaria del activo y la entidad financiera estructuradora (banco de Nivel 1 o su vehículo autorizado de emisión). Allianz Gold actúa como arquitecto de la estructura y no se constituye en contraparte del contrato financiero. Esta separación de roles es una garantía de integridad institucional: el propietario contrata con el banco, no con el intermediario."
+        },
+        {
+          "q": "¿Por qué el CEO de la empresa propietaria del activo debe firmar personalmente el contrato de monetización en la sede de la entidad financiera en Londres?",
+          "a": "La firma personal del representante legal en la sede de la entidad es un requisito de cumplimiento bancario: garantiza la identificación directa del principal, la certificación de capacidad y poderes y el registro documental bajo jurisdicción inglesa. Es el mismo protocolo aplicado a otras operaciones bancarias de Nivel 1 de magnitud comparable. El procedimiento ofrece además a la compañía una sesión técnica con los equipos estructuradores."
+        },
+        {
+          "q": "¿Quién es el titular del instrumento financiero y quién lo ejecuta?",
+          "a": "El titular del instrumento financiero es la entidad bancaria estructuradora. La ejecución en mercados secundarios de deuda la realiza su trading desk de Nivel 1, aplicando sus procedimientos institucionales de riesgo y operativa. La empresa propietaria del activo es beneficiaria económica del programa pero no ostenta la titularidad del instrumento ni interviene en su ejecución de mercado. Esta separación es la que habilita la operativa bajo estándares bancarios."
+        },
+        {
+          "q": "¿Por qué no existe riesgo de pérdida del activo?",
+          "a": "El activo se integra como garantía dentro de un contrato que no transfiere la propiedad. La ejecución se realiza sobre el instrumento financiero emitido por el banco, no sobre el activo en sí. La empresa minera mantiene la titularidad plena y, al finalizar el programa, recibe la liberación formal de la garantía. No existe en la estructura estándar del programa un escenario que permita al banco disponer del recurso subyacente."
+        },
+        {
+          "q": "¿En cuántos días recibiría la empresa propietaria del activo una hoja de términos de la plataforma financiera con la propuesta operativa y económica?",
+          "a": "Una vez completada y validada la documentación técnica y legal por los equipos estructuradores, la hoja de términos se emite en un plazo estimado de 30 a 45 días hábiles. Este plazo puede acortarse en casos con verificación previa o ampliarse cuando se requieran aclaraciones adicionales sobre el informe técnico o el estatus legal del activo."
+        },
+        {
+          "q": "¿Qué diferencia en rendimiento, derivada del aumento del LTV, hay entre una monetización directa y una a través de una SPV en Luxemburgo?",
+          "a": "La monetización directa suele operar con ratios de LTV conservadores, calibrados al perfil de riesgo del banco frente al emisor. La estructuración a través de una SPV en Luxemburgo permite aislar el activo dentro de un vehículo con gobernanza propia reforzada, transparencia regulatoria y bankruptcy remoteness, lo que se traduce en un LTV aplicable superior y, por tanto, en una mayor liquidez por onza colateralizada. El diferencial puede ser relevante en activos por encima del umbral mínimo; la estructura es opcional y se recomienda caso a caso."
+        },
+        {
+          "q": "¿Cuál es el coste y timing para la estructuración de una SPV si la empresa propietaria del activo se decanta por esa opción?",
+          "a": "La constitución de una SPV en Luxemburgo, incluyendo arquitectura legal, registro, cuentas bancarias y compliance, tiene un coste indicativo en la franja de 80.000 a 150.000 EUR según la complejidad y un plazo estimado de 6 a 10 semanas. El coste puede financiarse contra la ejecución del programa y se justifica por el LTV superior obtenido. Allianz Gold coordina los despachos y proveedores; la empresa decide si adoptar la estructura tras evaluar el rendimiento diferencial."
+        },
+        {
+          "q": "¿Los ingresos provenientes de la plataforma financiera son utilidades netas para el beneficiario?",
+          "a": "Los ingresos distribuidos a la compañía corresponden a su parte neta tras deducir las comisiones de estructuración, los gastos bancarios y los costes operativos del programa ya provisionados en la hoja de términos. Constituyen, por tanto, fondos disponibles para la compañía sin deducciones financieras adicionales. El tratamiento fiscal de estos ingresos depende de la jurisdicción del beneficiario y se articula con sus asesores tributarios."
+        },
+        {
+          "q": "¿Cómo se distribuyen en tiempo y forma los beneficios obtenidos durante el programa de monetización?",
+          "a": "Las distribuciones se efectúan con periodicidad recurrente a lo largo del ciclo, normalmente con un calendario mensual o trimestral, contra los resultados operativos del instrumento financiero. Se transfieren a la cuenta bancaria designada por la compañía bajo estándar ISO 20022. El calendario exacto, la divisa aplicable y los mecanismos de verificación intermedios se definen en la hoja de términos y en el contrato posterior."
+        },
+        {
+          "q": "Cuando finalice el programa de monetización y se libere el activo (colateral) sin cargas, ¿se puede aplicar a una segunda monetización?",
+          "a": "Sí. Concluido el ciclo y recibida la liberación formal de la garantía, el activo retorna a su estado institucional elegible. La compañía puede aplicar a un nuevo programa sujeto a la validez vigente de la certificación técnica (dentro de los 12 meses) y a las condiciones de mercado prevalentes. Los programas sucesivos son habituales cuando el activo mantiene su calificación y la empresa opta por repetir el ciclo."
+        }
+      ]
+    },
+    "case": {
+      "eyebrow": "Caso práctico",
+      "title": "Proceso de monetización",
+      "steps": [
+        "Tras superar la validación técnica, el activo NI 43-101 / JORC se integra en una estructura sin transferencia de propiedad.",
+        "El inventario se utiliza como garantía para la emisión de un instrumento bancario (SBLC/LOC) a través de una entidad de Nivel 1.",
+        "Este instrumento se activa en los mercados secundarios de deuda, generando liquidez operativa durante el ciclo.",
+        "La empresa mantiene el control del activo y no incurre en dilución de accionistas.",
+        "Al finalizar el programa, se libera la garantía en su totalidad."
+      ]
+    },
+    "eligibility": {
+      "eyebrow": "Elegibilidad",
+      "title": "Criterios de elegibilidad institucional",
+      "body": "Integración sujeta a validación técnica, económica y legal.",
+      "rows": [
+        { "label": "Umbral mínimo", "value": "300.000 oz (Measured) y 600.000 oz (Indicated)." },
+        { "label": "Certificación técnica", "value": "Informes NI 43-101 / JORC (≤ 12 meses), suscritos por QP / CP." },
+        { "label": "Certificación económica", "value": "Valoraciones CIMVAL / VALMIN (≤ 6 meses), suscritas por QV." },
+        { "label": "Estatus legal", "value": "Derechos mineros verificables y libres de contingencias." },
+        { "label": "Jurisdicciones", "value": "Entornos regulatorios estables con reconocimiento internacional." }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contacto",
+      "title": "Contacto institucional."
+    },
+    "intro": {
+      "lines": [
+        { "label": "Gestión institucional y acuerdos estratégicos", "email": "corporate@allianzgold.com" },
+        { "label": "Evaluación de activos y elegibilidad", "email": "projects@allianzgold.com" }
+      ],
+      "or": "O, si lo prefiere, complete el siguiente registro:"
+    },
+    "form": {
+      "company": "Nombre de la empresa",
+      "email": "Correo corporativo",
+      "jurisdiction": "Jurisdicción del activo",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "submitting": "Enviando…",
+      "success": "Su mensaje ha quedado registrado. Le responderemos desde corporate@allianzgold.com.",
+      "error": "Se ha producido un error al enviar. Por favor, inténtelo de nuevo o escriba directamente a corporate@allianzgold.com.",
+      "rateLimited": "Límite de envíos alcanzado. Por favor, inténtelo más tarde.",
+      "validation": {
+        "company": "Campo obligatorio.",
+        "email": "Introduzca un correo corporativo válido.",
+        "jurisdiction": "Campo obligatorio.",
+        "message": "Describa brevemente su consulta."
+      }
+    },
+    "office": {
+      "title": "Sede en Dubái",
+      "address": "Business Center Dubai South · Dubái · EAU · Apartado de correos 390667",
+      "license": "Licencia DED: 1065531"
+    }
+  },
+  "legal": {
+    "notice": {
+      "title": "Aviso legal",
+      "placeholder": "Pendiente de revisión jurídica."
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "placeholder": "Pendiente de revisión jurídica."
+    },
+    "cookies": {
+      "title": "Política de cookies",
+      "placeholder": "Pendiente de revisión jurídica."
+    },
+    "disclaimer": {
+      "title": "Descargo de responsabilidad",
+      "placeholder": "Pendiente de revisión jurídica."
+    }
+  }
+}

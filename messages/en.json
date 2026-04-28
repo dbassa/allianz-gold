@@ -1,0 +1,285 @@
+{
+  "nav": {
+    "about": "About",
+    "capitalization": "Capitalization",
+    "contact": "Contact",
+    "skipToContent": "Skip to content"
+  },
+  "footer": {
+    "tagline": "Redefining the rules of capital mining.",
+    "headquarters": "Dubai Headquarters",
+    "address": "Business Center Dubai South · Dubai · UAE · P.O. Box 390667",
+    "license": "DED License: 1065531",
+    "contact": "Contact",
+    "legal": "Legal",
+    "notice": "Legal Notice",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "disclaimer": "Disclaimer",
+    "rights": "© {year} Allianz Gold. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "name": "Allianz Gold",
+      "headline": "Institutional capital on certified resources.",
+      "lede": "Transforming inventories under NI 43-101 / JORC standards into institutional liquidity through structured acquisition or monetization strategies.",
+      "cta": "Explore capitalization"
+    },
+    "value": {
+      "eyebrow": "Differentiator",
+      "title": "Solvency for assets the conventional system will not finance.",
+      "body": "We structure and execute capital solutions for mining companies on a global scale, providing solvency to assets that the conventional financial system does not finance and that the public markets tend to dilute."
+    },
+    "pillars": {
+      "eyebrow": "Operational pillars",
+      "title": "Service infrastructure",
+      "financial": {
+        "title": "Financial infrastructure",
+        "items": [
+          { "title": "Asset structuring", "body": "Conversion of in-situ mineral resources into eligible institutional collateral." },
+          { "title": "SPV vehicles (Luxembourg)", "body": "LTV optimization and legal protection of the asset." },
+          { "title": "Tier 1 banking network", "body": "Issuance, custody, and guarantee under international standards." },
+          { "title": "Trading desk execution", "body": "Integration with Tier 1 trading desks for debt arbitrage in secondary markets." },
+          { "title": "Capital connectivity", "body": "Access to closed-circuit institutional and sovereign networks." }
+        ]
+      },
+      "legal": {
+        "title": "Legal infrastructure",
+        "items": [
+          { "title": "Legal framework", "body": "Jurisdiction under English or Swiss law." },
+          { "title": "Dispute resolution", "body": "International arbitration ICC / LCIA." },
+          { "title": "Banking standards", "body": "Operating under Basel III/IV regulations." },
+          { "title": "Compliance", "body": "Strict AML/KYC protocols and FATCA/CRS reporting." }
+        ]
+      }
+    },
+    "presence": {
+      "eyebrow": "Global presence",
+      "title": "Operational footprint",
+      "body": "Operational presence in London, Switzerland, and Luxembourg, with a strategic base in Dubai.",
+      "cities": ["London", "Switzerland", "Luxembourg", "Dubai"]
+    },
+    "tagline": "Redefining the rules of capital mining."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About",
+      "title": "Specialists in mining financial engineering."
+    },
+    "intro": {
+      "body": "Allianz Gold acts as a strategic link between validated geological resources and institutional capital markets. Our specialization integrates the technical validation of minerals with advanced financial architectures, transforming certified inventories into highly liquid financial assets."
+    },
+    "positioning": {
+      "title": "Operational positioning",
+      "items": [
+        "Independence from public markets and structural dilution processes.",
+        "Institutional capitalization structures, without traditional intermediation.",
+        "Focus on maximizing liquidity, asset control, and financial efficiency."
+      ]
+    },
+    "leadership": {
+      "title": "Multidisciplinary leadership",
+      "body": "Our structure integrates specialists in resource geology, financial engineering, and capital markets law.",
+      "areas": [
+        { "title": "Technical validation", "body": "Supervision by Qualified / Competent Persons (QP/CP) under banking risk criteria." },
+        { "title": "Financial engineering", "body": "Design of instruments and institutional capital architectures." },
+        { "title": "Legal architecture", "body": "Legal structuring, deployment of special purpose vehicles (SPVs), and regulatory compliance." }
+      ]
+    },
+    "governance": {
+      "title": "Governance",
+      "members": [
+        { "name": "Rubén Alanís", "role": "Chief Executive Officer (CEO)" },
+        { "name": "Manuel Justiniano", "role": "Chief Operating Officer (COO)" }
+      ]
+    }
+  },
+  "capitalization": {
+    "hero": {
+      "eyebrow": "Capitalization",
+      "title": "Institutional capitalization.",
+      "lede": "We structure two execution paths according to the asset's objective."
+    },
+    "acquisition": {
+      "number": "01",
+      "title": "Asset acquisition",
+      "subtitle": "Divestment through total transfer of ownership.",
+      "phases": [
+        { "label": "Phase I", "title": "Audit", "body": "Technical, legal, and financial due diligence." },
+        { "label": "Phase II", "title": "Structuring", "body": "Definition of terms and legal framework." },
+        { "label": "Phase III", "title": "Execution", "body": "Placement in institutional investment networks." },
+        { "label": "Phase IV", "title": "Settlement", "body": "Payment under ISO 20022 financial protocols." }
+      ]
+    },
+    "monetization": {
+      "number": "02",
+      "title": "Resource monetization",
+      "subtitle": "Conversion to cash without loss of ownership.",
+      "cycle": "Estimated operating cycle: 9 months.",
+      "phases": [
+        { "label": "Phase I", "title": "Validation", "body": "Qualification under NI 43-101 / JORC as eligible collateral." },
+        { "label": "Phase II", "title": "Issuance", "body": "Structuring of SBLC / LOC with Tier 1 banks." },
+        { "label": "Phase III", "title": "Execution", "body": "Integration in secondary debt markets." },
+        { "label": "Phase IV", "title": "Release", "body": "Distribution of returns and collateral release." }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions and answers",
+      "items": [
+        {
+          "q": "What does it mean to monetize a certified gold asset?",
+          "a": "Monetization is the process by which a mineral resource certified under NI 43-101 / JORC is incorporated as eligible collateral within an institutional banking structure, without transfer of ownership. The asset backs the issuance of a financial instrument (SBLC / LOC) that, once executed in the secondary debt market through a Tier 1 entity, generates operational liquidity for its owner during the cycle. At the end of the program the collateral is released in full and the asset returns to the owner free of encumbrances."
+        },
+        {
+          "q": "Why must the certificate have an effective date of less than 12 months to qualify for monetization?",
+          "a": "Tier 1 banks and trading desks operate under strict risk and reasonable diligence criteria. A technical report whose effective date exceeds 12 months loses validity as eligible collateral because it does not reliably reflect the current state of the resource, market parameters, or applied recovery factors. The 12-month threshold is not a commercial preference: it is a banking eligibility requirement applied uniformly across institutional collateralization programs."
+        },
+        {
+          "q": "If the NI 43-101 is out of date, can the asset owner receive a proposal to study the feasibility of updating it and applying for monetization?",
+          "a": "Yes. When the certificate has expired but the resource shows reasonable indicators of continuity, Allianz Gold can articulate a technical proposal aimed at evaluating the feasibility of an update, identifying QPs / CPs, and estimating timelines and verification scopes. This preliminary phase does not constitute a financial commitment: it is intended to determine whether the update is viable and economically justifiable in light of access to a subsequent monetization."
+        },
+        {
+          "q": "Why is monetization more profitable for the owner than selling the asset?",
+          "a": "In a sale, the owner gives up ownership of the resource and receives a one-off payment. In monetization, the owner retains ownership, accesses recurring liquidity during the program cycle, and at the end of the cycle returns to its non-encumbered position. There is no shareholder dilution, no loss of upside on the resource, and no exposure to market discounts on geological assets. The result is a higher present value with lower opportunity cost."
+        },
+        {
+          "q": "Can a company listed on a stock exchange participate in a monetization program?",
+          "a": "Yes. The structure is compatible with publicly listed companies as long as the operation is reported in accordance with the disclosure obligations of its market regulator. Since monetization does not entail a transfer of ownership and does not require an issuance of new shares, the impact on the capital structure is null and there is no shareholder dilution. The reporting framework is agreed in advance with the company's legal advisors."
+        },
+        {
+          "q": "Can the mining company actively operate the mine during a monetization program?",
+          "a": "Yes. The collateralized resource refers to a defined inventory under the technical report; ordinary mining and operating activity continues without interruption. The company retains full operational and management control of the property. The only obligation is to maintain the conditions of the asset that supported its institutional eligibility for the duration of the program."
+        },
+        {
+          "q": "Can the mining company carry out drilling and update the certificate during the monetization program?",
+          "a": "Yes. Exploration, drilling, and reserve update activities are compatible with the program. In fact, an update during the cycle can strengthen the company's institutional position for future programs. Material modifications to the resource that affect the eligibility scope are reported to the structuring entity, but in no case do they limit the technical evolution of the asset."
+        },
+        {
+          "q": "What is the purpose of a temporary representation mandate between Allianz Gold and the mining company?",
+          "a": "The mandate is a limited and revocable instrument that authorizes Allianz Gold to present the asset to its institutional network, request indicative term sheets, and coordinate technical and legal verifications on behalf of the company. It does not transfer rights over the asset, does not constitute a financial commitment, and has a defined temporal scope. Its purpose is to enable an orderly evaluation process while preserving the absolute control of the owner."
+        },
+        {
+          "q": "How is it possible that Allianz Gold operates 100% on a success basis, without prior investment from the mining company?",
+          "a": "Allianz Gold's structuring model is sustained by an institutional fee charged at the time of execution against the financial program, not against the company's treasury. The mining company does not assume preliminary fees, due diligence costs, or audit expenses. The economic alignment is total: there is no income for Allianz Gold without effective execution of the program. This regime is only viable for assets that meet the eligibility criteria from the outset."
+        },
+        {
+          "q": "With which entity is the monetization contract signed?",
+          "a": "The monetization contract is signed directly between the asset-owning company and the structuring financial entity (the Tier 1 bank or its authorized issuance vehicle). Allianz Gold acts as architect of the structure and does not become a counterparty to the financial contract. This separation of roles is a guarantee of institutional integrity: the owner contracts with the bank, not with the intermediary."
+        },
+        {
+          "q": "Why must the CEO of the asset-owning company personally sign the monetization contract at the financial entity's headquarters in London?",
+          "a": "The personal signature of the legal representative at the entity's headquarters is a banking compliance requirement: it ensures direct identification of the principal, certification of capacity and powers, and documentary record under English jurisdiction. It is the same protocol applied to other Tier 1 banking operations of comparable magnitude. The procedure also offers the company a technical session with the structuring teams."
+        },
+        {
+          "q": "Who is the holder of the financial instrument and who executes it?",
+          "a": "The holder of the financial instrument is the structuring banking entity. The execution in secondary debt markets is performed by its Tier 1 trading desk, applying its institutional risk and operating procedures. The asset-owning company is the economic beneficiary of the program but does not hold the instrument and does not intervene in its market execution. This separation is what enables the operation under banking standards."
+        },
+        {
+          "q": "Why is there no risk of asset loss?",
+          "a": "The asset is integrated as collateral within a contract that does not transfer ownership. The execution is performed on the financial instrument issued by the bank, not on the asset itself. The mining company retains full ownership and, at the end of the program, receives the formal release of the collateral. There is no scenario in the program's standard structure that allows the bank to dispose of the underlying resource."
+        },
+        {
+          "q": "Within how many days would the asset-owning company receive a term sheet from the financial platform with the operational and economic proposal?",
+          "a": "Once the technical and legal documentation is complete and validated by the structuring teams, the term sheet is issued within an estimated period of 30 to 45 business days. This term may be shortened in cases with prior verification or extended when additional clarifications on the technical report or legal status of the asset are required."
+        },
+        {
+          "q": "What is the difference in performance, derived from the LTV increase, between a direct monetization and one through an SPV in Luxembourg?",
+          "a": "Direct monetization usually operates with conservative LTV ratios, calibrated to the bank's risk profile against the issuer. Structuring through an SPV in Luxembourg allows the asset to be isolated within a vehicle with its own reinforced governance, regulatory transparency, and bankruptcy remoteness, which translates into a higher applicable LTV and, therefore, into greater liquidity per ounce of collateral. The differential can be relevant on assets above the minimum threshold; the structure is optional and is recommended on a case-by-case basis."
+        },
+        {
+          "q": "What is the cost and timing for structuring an SPV if the asset-owning company chooses that option?",
+          "a": "The constitution of an SPV in Luxembourg, including legal architecture, registry, banking accounts, and compliance, has an indicative cost in the range of 80,000 to 150,000 EUR, depending on complexity, and an estimated timeline of 6 to 10 weeks. The cost can be financed against the program's execution and is justified by the higher LTV obtained. Allianz Gold coordinates the legal counsels and providers; the company decides whether to adopt the structure after evaluating differential return."
+        },
+        {
+          "q": "Are the proceeds from the financial platform net profits for the beneficiary?",
+          "a": "The proceeds distributed to the company correspond to its net share after deducting structuring fees, banking expenses, and operating costs of the program already provisioned in the term sheet. They are therefore funds available to the company without additional financial deductions. The fiscal treatment of these proceeds depends on the jurisdiction of the beneficiary and is articulated with their tax advisors."
+        },
+        {
+          "q": "How are the proceeds obtained during the monetization program distributed in time and form?",
+          "a": "Distributions are made on a recurring basis throughout the cycle, normally on a monthly or quarterly schedule, against the operational results of the financial instrument. They are transferred to the bank account designated by the company under ISO 20022 standards. The exact schedule, applicable currency, and intermediate verification mechanisms are defined in the term sheet and the subsequent contract."
+        },
+        {
+          "q": "When the monetization program ends and the asset is released without encumbrances, can a second monetization be applied for?",
+          "a": "Yes. Once the cycle is finalized and the formal release of the collateral has been received, the asset returns to its eligible institutional state. The company can apply for a new program subject to current validation of the technical certification (within 12 months) and the prevailing market conditions. Successive programs are common when the asset maintains its qualification and the company chooses to repeat the cycle."
+        }
+      ]
+    },
+    "case": {
+      "eyebrow": "Case study",
+      "title": "Monetization process",
+      "steps": [
+        "Once the technical validation is met, the NI 43-101 / JORC asset is integrated into a structure without transfer of ownership.",
+        "The inventory is used as collateral for the issuance of a banking instrument (SBLC/LOC) through a Tier 1 entity.",
+        "This instrument is activated in secondary debt markets, generating operational liquidity during the cycle.",
+        "The company retains control of the asset and does not incur shareholder dilution.",
+        "Upon completion of the program, the collateral is released in full."
+      ]
+    },
+    "eligibility": {
+      "eyebrow": "Eligibility",
+      "title": "Institutional eligibility criteria",
+      "body": "Integration is subject to technical, economic, and legal validation.",
+      "rows": [
+        { "label": "Minimum threshold", "value": "300,000 oz (Measured) and 600,000 oz (Indicated)." },
+        { "label": "Technical certification", "value": "NI 43-101 / JORC reports (≤ 12 months), signed by QP / CP." },
+        { "label": "Economic certification", "value": "CIMVAL / VALMIN valuations (≤ 6 months), signed by QV." },
+        { "label": "Legal status", "value": "Verifiable mining rights, free of contingencies." },
+        { "label": "Jurisdictions", "value": "Stable regulatory environments with international recognition." }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Institutional contact."
+    },
+    "intro": {
+      "lines": [
+        { "label": "Institutional management and strategic agreements", "email": "corporate@allianzgold.com" },
+        { "label": "Asset evaluation and eligibility", "email": "projects@allianzgold.com" }
+      ],
+      "or": "Or, if you prefer, complete the following registration:"
+    },
+    "form": {
+      "company": "Company name",
+      "email": "Corporate email",
+      "jurisdiction": "Jurisdiction of the asset",
+      "message": "Message",
+      "submit": "Submit",
+      "submitting": "Submitting…",
+      "success": "Your message has been registered. We will respond from corporate@allianzgold.com.",
+      "error": "An error occurred while submitting. Please try again or write directly to corporate@allianzgold.com.",
+      "rateLimited": "Submission limit reached. Please try again later.",
+      "validation": {
+        "company": "Required field.",
+        "email": "Please enter a valid corporate email.",
+        "jurisdiction": "Required field.",
+        "message": "Please briefly describe your inquiry."
+      }
+    },
+    "office": {
+      "title": "Dubai Headquarters",
+      "address": "Business Center Dubai South · Dubai · UAE · P.O. Box 390667",
+      "license": "DED License: 1065531"
+    }
+  },
+  "legal": {
+    "notice": {
+      "title": "Legal Notice",
+      "placeholder": "Pending legal review."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "placeholder": "Pending legal review."
+    },
+    "cookies": {
+      "title": "Cookies Policy",
+      "placeholder": "Pending legal review."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "placeholder": "Pending legal review."
+    }
+  }
+}

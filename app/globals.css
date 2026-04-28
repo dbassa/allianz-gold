@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-ink text-paper font-sans;
+    font-feature-settings: 'kern', 'liga', 'calt';
+  }
+
+  /* Tabular numerals for tables and figures */
+  .tnum {
+    font-feature-settings: 'tnum' 1, 'lnum' 1;
+  }
+
+  /* Headings — Playfair Display by default */
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+    font-feature-settings: 'kern', 'liga', 'dlig';
+  }
+
+  /* Selection */
+  ::selection {
+    background-color: theme('colors.champagne.DEFAULT');
+    color: theme('colors.ink.DEFAULT');
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: theme('colors.ink.DEFAULT');
+  }
+  ::-webkit-scrollbar-thumb {
+    background: theme('colors.rule');
+    border-radius: 0;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: theme('colors.champagne.DEFAULT');
+  }
+}
+
+@layer base {
+  /* Arabic typography overrides — Naskh needs more vertical breathing room and never tight tracking */
+  html[lang='ar'] {
+    @apply font-arabic-sans;
+  }
+
+  html[lang='ar'] h1,
+  html[lang='ar'] h2,
+  html[lang='ar'] h3,
+  html[lang='ar'] h4 {
+    @apply font-arabic-display tracking-normal;
+    line-height: 1.45;
+  }
+
+  html[lang='ar'] p,
+  html[lang='ar'] li {
+    line-height: 2;
+  }
+
+  /* Bump small text one notch in Arabic — Naskh reads better slightly larger */
+  html[lang='ar'] .text-sm {
+    font-size: 1rem;
+  }
+  html[lang='ar'] .text-xs {
+    font-size: 0.875rem;
+  }
+}
+
+@layer utilities {
+  /* Animated underline for nav and inline links */
+  .link-underline {
+    @apply relative inline-block;
+  }
+  .link-underline::after {
+    content: '';
+    @apply absolute inset-x-0 bottom-0 h-px origin-left scale-x-0 bg-current transition-transform duration-500 ease-out;
+  }
+  .link-underline:hover::after,
+  .link-underline:focus-visible::after {
+    @apply scale-x-100;
+  }
+
+  /* Permanent hairline rule */
+  .hairline {
+    @apply h-px w-full bg-rule;
+  }
+
+  /* Champagne hairline accent */
+  .hairline-champagne {
+    @apply h-px w-12 bg-champagne;
+  }
+
+  /* Section eyebrow — small uppercase label above a section title */
+  .eyebrow {
+    @apply text-xs uppercase tracking-[0.3em] text-champagne;
+  }
+
+  html[lang='ar'] .eyebrow {
+    letter-spacing: 0.1em;
+  }
+}
