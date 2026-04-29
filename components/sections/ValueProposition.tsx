@@ -7,7 +7,7 @@ export function ValueProposition() {
   const t = useTranslations('home.value');
 
   return (
-    <section className="py-32 md:py-40">
+    <section className="py-32 md:pt-30 md:pb-40">
       <Container size="narrow">
         <Rule className="mb-16" />
         <Reveal>
