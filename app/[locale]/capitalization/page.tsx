@@ -48,7 +48,7 @@ export default async function CapitalizationPage({
       />
 
       {/* Acquisition path */}
-      <section className="py-32 md:py-15">
+      <section className="py-32 md:py-35">
         <Container>
           <PhaseTimeline
             number={t('acquisition.number')}
@@ -62,7 +62,7 @@ export default async function CapitalizationPage({
       <Rule className="mx-auto max-w-6xl px-6 md:px-10" />
 
       {/* Monetization path */}
-      <section className="py-32 md:py-15">
+      <section className="py-32 md:py-35">
         <Container>
           <PhaseTimeline
             number={t('monetization.number')}

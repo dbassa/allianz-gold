@@ -28,7 +28,7 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
     <>
       <PageHero eyebrow={t('hero.eyebrow')} title={t('hero.title')} />
 
-      <section className="py-32 md:py-40">
+      <section className="py-32 md:py-35">
         <Container>
           <div className="grid gap-20 md:grid-cols-2 md:gap-24">
             {/* Left — direct emails */}
