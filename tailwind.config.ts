@@ -11,16 +11,21 @@ const config: Config = {
     extend: {
       colors: {
         ink: {
-          DEFAULT: '#0A1628',
-          soft: '#1B2A3F',
+          DEFAULT: '#0C0C0E',   // negro mate, quasi sense blau
+          soft: '#161E26',       // gris carbonell profund
         },
-        paper: '#F7F4EE',
-        bone: '#E8E2D5',
+        petroleum: {
+          DEFAULT: '#162D3A',   // blau petroli fosc
+          soft: '#1E3D4F',       // blau petroli mitj
+        },
+        paper: '#F4F0E8',        // blanc trencat, càlid
+        bone: '#E3DDD1',         // beix suau
         champagne: {
-          DEFAULT: '#B8985A',
-          soft: '#D4B97D',
+          DEFAULT: '#9C8660',   // or envellit, mat
+          soft: '#B5A07C',       // or xampany, apagat
+          pale: '#CFC0A4',       // reflex molt subtil
         },
-        rule: '#2B3A52',
+        rule: '#1E3040',         // separador petroli fosc
       },
       fontFamily: {
         display: ['var(--font-display)', 'Georgia', 'serif'],

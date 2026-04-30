@@ -34,7 +34,7 @@ export function PageHero({ eyebrow, title, lede, image, className }: PageHeroPro
             className="absolute inset-0"
             style={{
               background:
-                'radial-gradient(ellipse 70% 60% at 50% 40%, rgba(10,22,40,0.10) 0%, rgba(10,22,40,0.50) 40%, rgba(10,22,40,0.60) 75%, rgba(10,22,40,0.98) 100%)',
+                'radial-gradient(ellipse 70% 60% at 50% 40%, rgba(12,12,14,0.10) 0%, rgba(22,29,38,0.50) 40%, rgba(12,12,14,0.60) 75%, rgba(12,12,14,0.98) 100%)',
             }}
           />
         </div>
