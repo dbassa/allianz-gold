@@ -17,9 +17,9 @@ type ContactEmailProps = {
   message: string;
 };
 
-const dark = '#0C0C0E';
-const champagne = '#9C8660';
-const bone = '#E3DDD1';
+const dark = '#0A1628';
+const champagne = '#B8985A';
+const bone = '#E8E2D5';
 
 const styles: Record<string, CSSProperties> = {
   body: { backgroundColor: dark, margin: 0, padding: 0 },
@@ -54,7 +54,7 @@ const styles: Record<string, CSSProperties> = {
     lineHeight: '1.6',
     marginBottom: '24px',
   },
-  hr: { borderColor: '#1E3040', margin: '32px 0' },
+  hr: { borderColor: '#2B3A52', margin: '32px 0' },
   footer: {
     color: '#4A5568',
     fontFamily: 'Arial, sans-serif',
